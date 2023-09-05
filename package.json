@@ -1,0 +1,16 @@
+{
+  "name": "daily-pfp",
+  "version": "1.0.0",
+  "description": "Cool Discord bot that change my profile picture every day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "automation"
+  ],
+  "author": "thcheetah777",
+  "license": "ISC"
+}
